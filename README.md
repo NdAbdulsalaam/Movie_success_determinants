@@ -1,6 +1,6 @@
 ![Camera to denote movie industry](https://th.bing.com/th/id/R.48f7856f7240156843537d79680320d9?rik=B6Qts0zCZmKGtQ&pid=ImgRaw&r=0)
 
-<h2 align = "center"  style="font-size:35px">What Happened to the Movie Industry?</h2>
+<h2 align = "center"  style="font-size:55px">What Happened to the Movie Industry?</h2>
 
 # Overview  
 What can we say about the success of a movie before it is released? Are there certain companies (Pixar?) that have found a consistent formula? Given that major films costing over $100 million to produce can still flop, this question is more important than ever to the industry. Film aficionados might have different interests. Can we predict which films will be highly rated, whether or not they are a commercial success?  
